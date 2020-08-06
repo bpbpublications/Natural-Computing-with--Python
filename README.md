@@ -19,7 +19,7 @@ The latter half of the book will introduce you to the world of Fractals such as 
 * Simulating complex systems by Cellular Automata
 * Understanding the basics of DNA computation
 
-## Related Products
+## Related products
 * [Python for Developers](https://bpbonline.com/products/python-programming-for-developers-book-ebook?_pos=2&_sid=85b9ebec8&_ss=r)
 * [Python Data Persistence](https://bpbonline.com/products/python-data-persistence-sql-and-nosql-programming-book-ebook?_pos=7&_sid=85b9ebec8&_ss=r)
 * [Python for Professionals](https://bpbonline.com/products/python-programming-for-professionals-book-ebook?_pos=3&_sid=85b9ebec8&_ss=r)
